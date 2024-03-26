@@ -1,7 +1,7 @@
 # Kubernetes Security Journey for DevSecOps Engineers
 
 As DevSecOps engineers, one of the primary resposibilities is to maintain security of your Kubernetes clusters and the containers.
-Here are some of the mandatory things to consider.
+Here are some of the mandatory things to consider. 
 
 1. [Secure your API server](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero/blob/main/Security/Manage_Security_Like_Pro.md#secure-your-api-server)
 2. [RBAC](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero/blob/main/Security/Manage_Security_Like_Pro.md#rbac)
